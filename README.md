@@ -33,9 +33,7 @@
 
 
 
-*Bootstrap*
    - *Bootstrap technique is used to create confidence intervals, with 1000 samples.*
 
-*permutation*
-   - *To determine statistical significance we apply a permutation approach. we use the method of maximum statistics to addresse the problem of multiple comparisons. In detail, We perform for example [MI calculation](https://github.com/FeiE/Bubbles) over all sensors and time points 1000 times, randomly permuting the stimulus class labels each time. We then take the maximum MI across electrodes of interest and time points as a permutation distribution and compared the real MI curves against the 95th percentile of this distribution.*
+   - *Permutation approach is applied to determine statistical significance. We use the method of maximum statistics to addresse the problem of multiple comparisons (Holmes et al. 1996). In detail, We perform for example [MI calculation](https://github.com/FeiE/Bubbles) over all sensors and time points 1000 times, randomly permuting the stimulus class labels each time. We then take the maximum MI across electrodes of interest and time points as a permutation distribution and compared the real MI curves against the 95th percentile of this distribution.*
   
