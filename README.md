@@ -2,7 +2,6 @@
 
 ## Table of contents ##
 - [Group and Individual results visualisation](#group-and-individual-results-visualisation) 
-  -
 - [Stats](#stats)
 
 
