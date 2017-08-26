@@ -1,5 +1,18 @@
-# PsyDa_Visualisation
+# Stats & Visualisation
 
+## Table of contents ##
+- [Statistics](#statistics) 
+  - [bootstrap](#bootstrap) 
+  - [permutation](#permutation)
+- [Results visualisation](#results-visualisation) 
+
+
+## Statistics ##
+### bootstrap
+
+### permutation
+
+## Results visualisation ##
 
 
 <img src="/ss_compare.png" alt="" width="400">
