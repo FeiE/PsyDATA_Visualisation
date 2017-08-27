@@ -2,9 +2,9 @@
 
 ## Table of contents ##
 - [Group and Individual results visualisation](#group-and-individual-results-visualisation) 
-- [Stats](#stats)
   - [scatterplot of pairwise differences](#scatterplot-of-pairwise-differences)
   - [timecourse of pairwise differences](#timecourse-of-pairwise-differences)
+- [Stats](#stats)
 
 ## Group and Individual results visualisation ##
 
@@ -13,7 +13,7 @@
 
 <img src="/scatterplot.png" alt="" width="300">
 
-  - The coloured disks show the group medians with their 95% confidence intervals. The black scatterplot shows the distribution of individual differences and their group results.
+  - Left: the coloured disks show the group medians with their 95% confidence intervals. Right: the black scatterplot shows the distribution of individual differences and their group results.
 
 
 
