@@ -3,19 +3,19 @@
 ## Table of contents ##
 - [Group and Individual results visualisation](#group-and-individual-results-visualisation) 
 - [Stats](#stats)
-
+  - [scatterplot of pairwise differences](#scatterplot-of-pairwise-differences)
+  - [timecourse of pairwise differences](#timecourse-of-pairwise-differences)
 
 ## Group and Individual results visualisation ##
 
 
-### one manipulation ###
+### scatterplot of pairwise differences ###
 
-<img src="/ss_compare.png" alt="" width="400">
+<img src="/scatterplot.png" alt="" width="300">
 
   - The coloured disks show the group medians with their 95% confidence intervals. The black scatterplot shows the distribution of individual differences and their group results.
 
 
-### multiple manipulations ###
 
 <img src="/ss.png" alt="" width="800">
 
@@ -26,7 +26,7 @@
 
   - In each panel, scatterplot in grey background shows the distribution of individual value (colour-coded cirlcle) for each condition. The coloured disks show the group medians with their 95% confidence intervals that are also detailed in the top. Each scatterplot in white background shows the distribution of individual differences between pairs from conditions and their group results. Italic numbers above the x-axis show how many participant had stronger effects, and the numbers below show opposite effects.
 
-### time course of pairwise differences ###
+### timecourse of pairwise differences ###
 
 <img src="/timecourse_pairwisediff.png" alt="" width="500">
 
